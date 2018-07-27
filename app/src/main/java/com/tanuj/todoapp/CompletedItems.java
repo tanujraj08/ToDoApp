@@ -17,9 +17,6 @@ import com.tanuj.todoapp.utils.Constants;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by User on 09/10/2017.
- */
 
 public class CompletedItems extends AppCompatActivity{
     // Completed Items Activity.
