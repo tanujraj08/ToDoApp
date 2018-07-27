@@ -1,8 +1,6 @@
 package com.tanuj.todoapp.utils;
 
-/**
- * Created by User on 07/10/2017.
- */
+
 
 public class Constants {
 
