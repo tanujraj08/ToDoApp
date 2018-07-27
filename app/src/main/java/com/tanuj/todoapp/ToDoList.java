@@ -1,8 +1,5 @@
 package com.tanuj.todoapp;
 
-/**
- * Created by User on 06/10/2017.
- */
 
 public class ToDoList {
 
