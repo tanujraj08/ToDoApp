@@ -7,9 +7,6 @@ import android.provider.SyncStateContract;
 
 import com.tanuj.todoapp.utils.Constants;
 
-/**
- * Created by User on 07/10/2017.
- */
 
 // Class Extends From SQLiteOpenHelper Class
 public class AppDatabase extends SQLiteOpenHelper {
