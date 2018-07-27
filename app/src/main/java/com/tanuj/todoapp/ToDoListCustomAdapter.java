@@ -15,9 +15,6 @@ import android.widget.Toast;
 
 import java.util.List;
 
-/**
- * Created by User on 06/10/2017.
- */
 
 public class ToDoListCustomAdapter extends BaseAdapter {
     private Context context;
